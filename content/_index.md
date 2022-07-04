@@ -1,6 +1,6 @@
 ---
-title: "Ananke: a Hugo Theme"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "The last theme you'll ever need. Maybe."
+title: "Troy Krannich"
+featured_image: '/images/House Background.jpg'
+description: "Berkshire Hathaway HomeServices NJ Properties Rampinelli Team"
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Third Generation Realtor, out to provide amazing service and reset people's expectations.
